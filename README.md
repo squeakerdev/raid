@@ -1,2 +1,2 @@
 # raid
-A code sample from a client project. 
+A code sample of part of a Discord bot, built for a client project. 
